@@ -1,0 +1,17 @@
+﻿Build started 8/29/2014 8:42:43 PM.
+     1>Project "C:\Users\Andrew\Downloads\school\BinaryTree\BinaryTree\BinaryTree.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\BinaryTree.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         BinaryTree.vcxproj -> C:\Users\Andrew\Downloads\school\BinaryTree\Debug\BinaryTree.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\BinaryTree.unsuccessfulbuild".
+         Touching "Debug\BinaryTree.lastbuildstate".
+     1>Done Building Project "C:\Users\Andrew\Downloads\school\BinaryTree\BinaryTree\BinaryTree.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.94
